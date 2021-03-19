@@ -6,8 +6,10 @@
 </p>
 <h1 align="center">:pushpin: Sobre o desafio</h1>
 Nesse desafio, foi utilizado um modelo de template que possui o esqueleto do projeto.
+
 O template pode ser encontrado na seguinte url: **[Acessar Template](https://github.com/rocketseat-education/ignite-template-conceitos-do-nodejs)**
-Dica: Caso não saiba utilizar repositórios do Github como template, utilize o guia em **[nosso FAQ](https://www.notion.so/ddd8fcdf2339436a816a0d9e45767664).**
+
+**Dica**: Caso não saiba utilizar repositórios do Github como template, utilize o guia em **[nosso FAQ](https://www.notion.so/ddd8fcdf2339436a816a0d9e45767664).**
 
 É uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
