@@ -1,7 +1,8 @@
-<h1 align="center">Desafio 1 do Ignite - Trilha NodeJS</h1>
+<h1 align="center">🚀 Desafio 1 do Ignite - Trilha NodeJS</h1>
 <p align="center">
   Desafio 01: Conceitos do Node.js
 </p>
+<img alt="Ignite" src="./assets/ignite.png" />
 <br>
 <h1 align="center">:pushpin: Sobre o desafio</h1>
 <p align="left">
