@@ -1,9 +1,9 @@
 <h1 align="center">🚀 Desafio 1 do Ignite - Trilha NodeJS</h1>
 <p align="center">
   Desafio 01: Conceitos do Node.js
+  <br>
+  <img align="center" alialt="Ignite" src="./assets/ignite.png" />
 </p>
-<img align="center" alialt="Ignite" src="./assets/ignite.png" />
-<br>
 <h1 align="center">:pushpin: Sobre o desafio</h1>
 <p align="left">
   Nesse desafio, foi utilizado um modelo de template que possui o esqueleto do projeto.
